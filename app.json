@@ -1,0 +1,18 @@
+{
+  "name": "Manu-MD-V5",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/manulofficial7/Manu-MD-V5",
+  "logo": "https://telegra.ph/file/1381545219ab4bc892afe.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
