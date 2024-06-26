@@ -103,7 +103,7 @@ apt apt install libwebp
 apt apt install imagrmagick
 apt install bash
 git clone https://github.com/manulofficial7/Manu-MD-V5
-cd Manul_Official_WhatsApp_Bot_V4
+cd Manu-MD-V5
 npm start
 ```
 
